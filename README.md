@@ -10,7 +10,7 @@
 
 - 🔭 I’m currently working on **Multiple Projects**
 
-- 👨‍💻 All of my projects are available at [github.com/mkhaziq](github.com/mkhaziq)
+- 👨‍💻 All of my projects are available at [github.com/mkhaziq](github.com/mkhaziq) **(but private 🔒)**
 
 - 💬 Ask me about **Javascript**
 
